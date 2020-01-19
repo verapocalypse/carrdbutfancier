@@ -1,0 +1,10 @@
+body {
+  position: relative;
+  font-family: sans-serif;
+  font size: 30px;
+  text-align: center;
+  font-family: "Courier", sans-serif;
+  justify-content: center;
+  background-color: black;
+  color: white;
+}
