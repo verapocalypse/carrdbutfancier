@@ -6,5 +6,13 @@ body {
   font-family: "Courier", sans-serif;
   justify-content: center;
   background-color: black;
-  color: white;
+  /*color: #a10000;*/
+}
+
+.block {
+  color: #a10000;
+}
+
+.blocktwo {
+  color: #4ac925;
 }
